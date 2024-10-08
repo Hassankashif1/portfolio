@@ -1,0 +1,1 @@
+var typed = new Typed(".auto-txt7", { strings: ["Book and Album Cover Design Studio"], typeSpeed: 80, backSpeed: 0, loop: true });

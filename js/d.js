@@ -1,0 +1,1 @@
+var typed = new Typed(".auto-txt4", { strings: ["Brand Identity"], typeSpeed: 80, backSpeed: 0, loop: true });

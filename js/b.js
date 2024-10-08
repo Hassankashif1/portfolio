@@ -1,0 +1,1 @@
+var typed = new Typed(".auto-txt2", { strings: ["Wordpress Website", "Professional Website", "Corporate Website", "Business Website", "SEO Website"], typeSpeed: 80, backSpeed: 0, loop: true });

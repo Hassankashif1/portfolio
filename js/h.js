@@ -1,0 +1,1 @@
+var typed = new Typed(".auto-txt9", { strings: ["NFT Design"], typeSpeed: 80, backSpeed: 0, loop: true });

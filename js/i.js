@@ -1,0 +1,1 @@
+var typed = new Typed(".auto-txt0", { strings: ["Digital Marketing", "Social Media Marketing"], typeSpeed: 80, backSpeed: 0, loop: true });

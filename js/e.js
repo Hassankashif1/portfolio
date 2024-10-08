@@ -1,0 +1,1 @@
+var typed = new Typed(".auto-txt6", { strings: ["Developing Mobile Apps"], typeSpeed: 80, backSpeed: 0, loop: true });

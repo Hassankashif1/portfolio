@@ -1,0 +1,1 @@
+var typed = new Typed(".auto-txt8", { strings: ["Motion Graphics Animation"], typeSpeed: 80, backSpeed: 0, loop: true });

@@ -1,0 +1,1 @@
+var typed = new Typed(".auto-txt5", { strings: ["Graphic Designing", "Gaming Profile"], typeSpeed: 80, backSpeed: 0, loop: true });
